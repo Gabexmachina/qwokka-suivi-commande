@@ -1,7 +1,7 @@
 # Suivi de commande client · cas pratique Qwokka
 
 Kit de démo du cas pratique « Lead Delivery & AI Automation » (Growth Ex Machina × Qwokka).
-Site : https://growthexmachina2.github.io/qwokka-suivi-commande/
+Site : https://growthexmachina2.github.io/qwokka-demo/
 
 | Dossier | Contenu |
 |---|---|
